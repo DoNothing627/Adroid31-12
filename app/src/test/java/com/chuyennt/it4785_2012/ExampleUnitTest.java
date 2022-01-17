@@ -1,4 +1,4 @@
-package com.example.android.adroid31_12;
+package com.chuyennt.it4785_2012;
 
 import org.junit.Test;
 
